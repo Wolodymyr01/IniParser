@@ -1,0 +1,10 @@
+[sect1] 
+num = 5
+name = sect1 #slf
+str = abcd
+[super] : sect1
+dig = 6 #exp { $num + 1 }
+word = demo #exp { ---$str + emo }
+ins = permission #exp { --$this + mission }
+[another] : super
+zahl = 11 #exp { $dig + $num } { 6 + $num }

@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\MECore\MECore\obj\Debug\netstandard2.0\MECore.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MECore\MECore\obj\Debug\netstandard2.0\MECore.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\MECore\MECore\obj\Debug\netstandard2.0\MECore.AssemblyInfo.cs
+C:\Users\PC\source\repos\MECore\MECore\bin\Debug\netstandard2.0\MECore.deps.json
+C:\Users\PC\source\repos\MECore\MECore\bin\Debug\netstandard2.0\MECore.dll
+C:\Users\PC\source\repos\MECore\MECore\bin\Debug\netstandard2.0\MECore.pdb
+C:\Users\PC\source\repos\MECore\MECore\obj\Debug\netstandard2.0\MECore.dll
+C:\Users\PC\source\repos\MECore\MECore\obj\Debug\netstandard2.0\MECore.pdb
+C:\Users\PC\source\repos\MECore\MECore\obj\Debug\netstandard2.0\MECore.csprojAssemblyReference.cache

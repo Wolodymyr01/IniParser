@@ -1,0 +1,10 @@
+[sect1] 
+name = $this
+str = abcd
+num = 5
+[super] : sect1
+word = ---$str + emo #exp
+dig = $num + 1 #exp
+ins = --$this + mission #exp
+[another] : super
+zahl = $dig + $num #exp
